@@ -1,0 +1,10 @@
+/* Your Website Styles */
+
+/* Show Grid */
+{
+	background: url("../img/bg.png") repeat-y;
+}
+ul.nav li{
+	float:left;
+	margin-right:40px;
+}
